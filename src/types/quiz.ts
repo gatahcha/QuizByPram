@@ -11,7 +11,7 @@ export interface Quiz {
   questions: QuizQuestion[];
 }
 
-export interface UserAnswer {
+export interface UserAnswer { // okay
   questionIndex: number;
   selectedAnswer: number;
   correctAnswer: number;
