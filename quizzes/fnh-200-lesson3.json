@@ -1,0 +1,173 @@
+
+{
+    "title": "FNH 200 - Lesson 3: Fat Substitutes, Sweeteners & Sensory Perception",
+    "description": "A comprehensive quiz covering fat replacers (protein-based, carbohydrate-based, and fat-based), alternative sweeteners (non-caloric and low-calorie), and sensory perception of foods including appearance, texture, and flavour factors.",
+    "questions": [
+      {
+        "question": "What is the primary process used to create Simplesse, a protein-based fat substitute?",
+        "options": [
+          "Microencapsulation of protein molecules",
+          "Microparticulation through partial heat coagulation",
+          "Chemical modification of amino acid chains",
+          "Enzymatic breakdown of whey proteins"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Simplesse is created through microparticulation, where protein is partially coagulated by heat to create a micro-dispersion. The resulting spheres of protein and water are very small (0.1-0.2 microns), below the size limit that we can feel with our tongue, giving a fluid perception with the creaminess and richness of fat."
+      },
+      {
+        "question": "How many calories per gram does Simplesse provide?",
+        "options": [
+          "0 Cal/g",
+          "1.3 Cal/g",
+          "4 Cal/g",
+          "9 Cal/g"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Simplesse provides 1.3 Cal/g, which is significantly lower than fat (9 Cal/g). This makes it an effective fat substitute for reducing caloric content while maintaining a creamy texture in foods like ice cream, yogurt, and salad dressings."
+      },
+      {
+        "question": "What is the main reason Olestra (Olean) is not absorbed by the body?",
+        "options": [
+          "It contains synthetic polymers that resist digestion",
+          "It has 6-8 fatty acid chains attached to sucrose instead of glycerol",
+          "It is composed of modified cellulose fibers",
+          "It contains chlorinated hydrocarbon bonds"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Olestra is a sucrose polyester with 6-8 fatty acid chains attached to a sucrose molecule (instead of 3 fatty acids attached to glycerol in regular triglycerides). This structure makes it too large for digestive enzymes (lipases) to break down, so it passes through the body undigested and contributes 0 Cal/g."
+      },
+      {
+        "question": "What must be added to foods containing Olestra to compensate for nutrient loss?",
+        "options": [
+          "B vitamins and iron",
+          "Calcium and magnesium",
+          "Vitamins A, D, E, and K",
+          "Omega-3 fatty acids"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Fat-soluble vitamins A, D, E, and K must be added to foods containing Olestra. Because Olestra is not digested or absorbed, any fat-soluble nutrients present in the gastrointestinal tract at the same time can partition into the Olestra and pass through without being absorbed by the body."
+      },
+      {
+        "question": "Which carbohydrate-based fat replacer is fully digestible and provides 4 Cal/g?",
+        "options": [
+          "Avicel",
+          "Betatrim",
+          "Maltrin",
+          "Cellulose"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Maltrin is fully digestible and provides 4 Cal/g (compared to fat at 9 Cal/g). Other carbohydrate-based fat replacers like Avicel and Betatrim range from non-digestible to partially digestible (0-2 Cal/g). Maltrin provides a smooth mouthfeel and bland flavour."
+      },
+      {
+        "question": "What is the approval status of Olestra in Canada?",
+        "options": [
+          "Approved for all food products since 1996",
+          "Approved only for snack foods",
+          "Not approved in Canada",
+          "Approved only for pharmaceutical use"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Olestra is not approved in Canada. While it was approved in the USA in 1996, Canada has not approved its use in foods. The warning requirement was lifted in the US in 2003, but the product has lost popularity over time."
+      },
+      {
+        "question": "How many times sweeter than sucrose is aspartame?",
+        "options": [
+          "50-100 times sweeter",
+          "180-220 times sweeter",
+          "600 times sweeter",
+          "7000 times sweeter"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Aspartame is 180-220 times sweeter than sucrose. This high level of sweetness means that only very small amounts are needed, resulting in minimal caloric contribution despite providing 4 Cal/g. Due to this high sweetness, aspartame is classified as a low-calorie or non-nutritive sweetener."
+      },
+      {
+        "question": "What are the two amino acids that make up aspartame?",
+        "options": [
+          "Glycine and alanine",
+          "Leucine and isoleucine",
+          "Phenylalanine and aspartic acid",
+          "Lysine and methionine"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Aspartame is made of two amino acids: phenylalanine and aspartic acid. This composition is important because individuals with phenylketonuria (PKU) cannot properly metabolize phenylalanine, so products containing aspartame must carry a warning for people with this condition."
+      },
+      {
+        "question": "Why can't aspartame be used in baked goods?",
+        "options": [
+          "It reacts with gluten proteins",
+          "It degrades at high temperatures and over time",
+          "It causes excessive browning",
+          "It inhibits yeast activity"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Aspartame degrades at high temperatures and over time, forming diketopiperazine (DKP). This instability makes it unsuitable for baked goods. A best-before date is necessary on products containing aspartame to ensure quality before degradation occurs."
+      },
+      {
+        "question": "What is the primary difference between neotame and aspartame?",
+        "options": [
+          "Neotame is made from different amino acids",
+          "Neotame is much sweeter and does not pose problems for people with PKU",
+          "Neotame contains chlorine atoms",
+          "Neotame is derived from plant sources"
+        ],
+        "correctAnswer": 1,
+        "explanation": "While both neotame and aspartame are made from phenylalanine and aspartic acid, neotame is 7000 times sweeter than sucrose (versus 180-220 for aspartame) and is relatively heat stable. Importantly, neotame does not pose problems for people with phenylketonuria (PKU), unlike aspartame."
+      },
+      {
+        "question": "How is sucralose chemically different from sucrose?",
+        "options": [
+          "It has additional hydroxyl groups",
+          "Three hydroxyl groups are replaced by chlorine atoms",
+          "It contains nitrogen atoms in the ring structure",
+          "It has shorter carbon chains"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Sucralose is a chlorinated molecule where three hydroxyl groups (OH) of the sucrose molecule are replaced by chlorine (Cl) atoms. This modification makes it 600 times sweeter than sucrose, heat stable, and not metabolized by the human body (0 Cal/g)."
+      },
+      {
+        "question": "What is the Acceptable Daily Intake (ADI) for sucralose?",
+        "options": [
+          "2 mg/kg body weight",
+          "9 mg/kg body weight",
+          "15 mg/kg body weight",
+          "40 mg/kg body weight"
+        ],
+        "correctAnswer": 1,
+        "explanation": "The ADI for sucralose is 9 mg/kg body weight per day. This is lower than aspartame (40 mg/kg) but higher than neotame (2 mg/kg). Sucralose has no effect on carbohydrate metabolism and does not increase blood glucose or insulin levels."
+      },
+      {
+        "question": "What caloric range do sugar alcohols typically provide?",
+        "options": [
+          "0 Cal/g",
+          "1.5-3 Cal/g",
+          "4 Cal/g",
+          "6-7 Cal/g"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Sugar alcohols like sorbitol, mannitol, and xylitol are partially digested and provide 1.5-3 Cal/g. They are absorbed slowly, which can cause a laxative effect when consumed in large amounts (threshold 20-40 g/day). They also provide a cooling sensation and do not promote dental caries."
+      },
+      {
+        "question": "Which of the following best describes the 'umami' taste?",
+        "options": [
+          "A cooling sensation from menthol compounds",
+          "A savory taste associated with glutamate and nucleotides",
+          "A puckering sensation from tannins",
+          "A spicy heat from capsaicin"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Umami is the fifth basic taste sensation, described as savory. It is associated with glutamate (such as in MSG - monosodium glutamate) and 5'-nucleotides. Professor K. Ikeda discovered this taste in 1908 while working with kombu seaweed and extracted crystals of glutamic acid."
+      },
+      {
+        "question": "Why does food seem bland when you have a cold?",
+        "options": [
+          "Taste receptors on the tongue become less sensitive",
+          "The inability to detect aromas reduces flavour perception",
+          "Mucus coats the tongue and blocks taste buds",
+          "Body temperature changes affect sensory receptors"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Food seems bland during a cold because flavour comprises both taste and smell. When nasal passages are congested, fat-soluble and volatile aroma compounds cannot properly interact with receptors in the olfactory region of the nose. Since aroma is a major component of flavour, its loss makes food taste bland even though taste receptors on the tongue still function."
+      }
+    ]
+  }
+  

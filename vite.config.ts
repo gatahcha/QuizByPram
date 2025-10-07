@@ -4,7 +4,7 @@ import { resolve } from 'path';
 export default defineConfig({
   root: './',
   publicDir: 'public',
-  base: process.env.NODE_ENV === 'production' ? '/quizbypram/' : '/',
+  base: process.env.NODE_ENV === 'production' ? '/QuizByPram/' : '/',
   build: {
     outDir: 'dist',
     emptyOutDir: true,
