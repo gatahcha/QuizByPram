@@ -1,0 +1,62 @@
+{
+  "title": "JavaScript Basics",
+  "description": "Test your knowledge of fundamental JavaScript concepts",
+  "questions": [
+    {
+      "question": "What is the correct way to declare a variable in JavaScript?",
+      "options": [
+        "var name = 'John'",
+        "variable name = 'John'",
+        "v name = 'John'",
+        "declare name = 'John'"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The 'var' keyword is used to declare variables in JavaScript. Modern JavaScript also supports 'let' and 'const' keywords. Other options are not valid JavaScript syntax."
+    },
+    {
+      "question": "Which method is used to add an element to the end of an array?",
+      "options": [
+        "push()",
+        "pop()",
+        "shift()",
+        "unshift()"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The push() method adds one or more elements to the end of an array and returns the new length of the array. pop() removes from the end, shift() removes from the beginning, and unshift() adds to the beginning."
+    },
+    {
+      "question": "What does the === operator do in JavaScript?",
+      "options": [
+        "Assigns a value to a variable",
+        "Compares values and types for equality",
+        "Compares only values for equality",
+        "Performs addition"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The === operator is the strict equality operator in JavaScript. It compares both the value and the type of two operands. The == operator only compares values (with type coercion), while = is the assignment operator."
+    },
+    {
+      "question": "Which of the following is NOT a JavaScript data type?",
+      "options": [
+        "String",
+        "Boolean",
+        "Float",
+        "Undefined"
+      ],
+      "correctAnswer": 2,
+      "explanation": "JavaScript doesn't have a 'Float' data type. Numbers in JavaScript are all of type 'Number' which can represent both integers and floating-point values. String, Boolean, and Undefined are all valid JavaScript data types."
+    },
+    {
+      "question": "What is the output of: console.log(typeof null)?",
+      "options": [
+        "null",
+        "undefined",
+        "object",
+        "number"
+      ],
+      "correctAnswer": 2,
+      "explanation": "This is actually a well-known bug in JavaScript that has been kept for backward compatibility. typeof null returns 'object', even though null is its own primitive type. This quirk exists since the first version of JavaScript."
+    }
+  ]
+}
+
